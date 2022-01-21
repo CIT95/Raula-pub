@@ -1,0 +1,2 @@
+# something good
+Something I would possible like to make is a dog feeder tracker. By this I mean have something like a raspberry pi and use it to know when the dogs have eat and the amount they ate. The way it would work would by 1) wiegthing the default weight of the dog bowl than with food. and when the eats it subtracts it from the orginal which would let me know how many ounces the dog has eatten another thing would be to add a camera to know exactly which dog ate.
